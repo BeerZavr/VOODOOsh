@@ -1,0 +1,7 @@
+H:\praktikaYak\Стас\bin\Debug\ProgramPraktika.exe.config
+H:\praktikaYak\Стас\bin\Debug\ProgramPraktika.exe
+H:\praktikaYak\Стас\bin\Debug\ProgramPraktika.pdb
+H:\praktikaYak\Стас\obj\Debug\ProgramPraktika.csprojAssemblyReference.cache
+H:\praktikaYak\Стас\obj\Debug\ProgramPraktika.csproj.CoreCompileInputs.cache
+H:\praktikaYak\Стас\obj\Debug\ProgramPraktika.exe
+H:\praktikaYak\Стас\obj\Debug\ProgramPraktika.pdb

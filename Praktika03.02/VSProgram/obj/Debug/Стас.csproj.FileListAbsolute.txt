@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Стас\obj\Debug\Стас.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Стас\obj\Debug\Стас.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Стас\bin\Debug\Стас.exe.config
+C:\Users\User\source\repos\Стас\bin\Debug\Стас.exe
+C:\Users\User\source\repos\Стас\bin\Debug\Стас.pdb
+C:\Users\User\source\repos\Стас\obj\Debug\Стас.exe
+C:\Users\User\source\repos\Стас\obj\Debug\Стас.pdb
+H:\praktikaYak\Стас\bin\Debug\ProgramPraktika.exe.config
+H:\praktikaYak\Стас\bin\Debug\ProgramPraktika.exe
+H:\praktikaYak\Стас\bin\Debug\ProgramPraktika.pdb
+H:\praktikaYak\Стас\obj\Debug\Стас.csprojAssemblyReference.cache
+H:\praktikaYak\Стас\obj\Debug\Стас.csproj.CoreCompileInputs.cache
+H:\praktikaYak\Стас\obj\Debug\ProgramPraktika.exe
+H:\praktikaYak\Стас\obj\Debug\ProgramPraktika.pdb
